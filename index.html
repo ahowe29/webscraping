@@ -1,0 +1,78 @@
+<!-- Place in document head -->
+<link rel="stylesheet" href="https://www.alliehowe.tech/index.css">
+
+<audio id="theme" preload=auto onloadeddata="var audioPlayer = this; setTimeout(function() { audioPlayer.play(); }, 4000)">
+    <source src="https://www.alliehowe.tech/images/theme2.mp3" type="audio/mp3" />
+</audio>
+
+
+<script>
+$(window).on('load',function(){
+  $("window").on("tap",function(){
+    
+          $("audio").trigger('play');  
+        $('theme').play();
+  });
+});
+</script>
+
+<script>
+$(document).ready(myFunction() { 
+    $("audio").on("tap", myFunction);
+
+});
+
+function myFunction() {
+    document.getElementById('theme').play();
+          $("#theme").trigger('play');  
+        $('theme').play();
+}
+</script>
+
+
+<a href="https://www.alliehowe.tech/home.html" class="skip-button">skip intro</a>
+
+
+
+<!-- Place in Body where you'd like intro to appear -->
+<div class="star-wars-intro">
+
+  <!-- Blue Intro Text -->
+  <p class="intro-text">
+    In a small town called Blacksburg far far away...
+  </p>
+
+  <!-- Logo Image or Text goes in here -->
+  <h2 class="main-logo">
+    <img src="https://www.alliehowe.tech/images/AHyellow.png">
+  </h2>
+
+  <!-- All Scrolling Content Goes in here -->
+  <div class="main-content">
+
+    <div class="title-content">
+      <p class="content-header">Allie Howe<br/>Software Engineer</p>
+
+      <br>
+
+      <p class="content-body">
+        Allie grew up in a small homogenous suburb east of Cincinnati, Ohio. The bubbled, isolated community felt a lot like growing up on Tatooine. In pursit of diversity and an engineering education, Allie moved to Blacksburg and enrolled in Virginia Tech's College of Engineering in 2014. There she found her best friends as a little sister of Delta Phi Sigma, joined the Apex Center for Innovation and Entreprenuership as a student leader, and carried out Ut Prosim as a member of Hokie Nation. 
+
+        </p>
+
+<p class="content-body">
+        Allie originially declared Mechanical Engineering but after witnessing the technologicial revolution going on around her she knew she had to join it. Anxious to contribute, Allie switched to Computer Science and remained on course to gradutate in May 2018. Daily engineers are making history. Stories will be told- and Allie is determined to be apart of the narrative. 
+
+        </p>
+<p class="content-body">
+        After interning with GE Aviation, Allie went on to intern with VeloCloud in Mountian View, CA. There she worked with the most entertaining, enabling and hard-working team. Always looking for new opprotunties to learn more and further her programming skills, her story goes on.
+        
+      </p>
+
+
+      <!-- button or link or whatever -->
+      <a href="https://alliehowe.tech/home.html" class="space-button">Enter alliehowe.tech . . .</a>
+        
+    </div>
+  </div>
+</div>

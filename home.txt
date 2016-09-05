@@ -1,0 +1,200 @@
+﻿
+
+<!DOCTYPE HTML>
+<!--
+	Landed by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head><meta http-equiv="Content-Type" content="text/html; charset=euc-jp">
+		<title>Allie Howe</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://www.alliehowe.tech/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://www.alliehowe.tech/main.css" />
+<script src="https://use.fontawesome.com/c1f167de70.js"></script>
+		<!--[if lte IE 9]><link rel="stylesheet" href="https://www.alliehowe.tech/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://www.alliehowe.tech/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">Allie Howe</a></h1>
+					<nav id="nav">
+						<ul>
+
+							<li><a href="https://www.alliehowe.tech/home.html"></a></li>
+							<li>
+								<a href="#"></a>
+								<ul>
+								<!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+									<li> 
+										<a href="#">Submenu</a>
+										 <ul>
+											<li><a href="#">Option 1</a></li>
+											<li><a href="#">Option 2</a></li>
+											<li><a href="#">Option 3</a></li>
+											<li><a href="#">Option 4</a></li>
+										</ul> 
+									</li> -->
+								</ul>
+							</li>
+							<li><a href="elements.html"></a></li>	
+							<li><a href="https://www.alliehowe.tech/home.html"><img src="https://www.alliehowe.tech/a.png"/></a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>/ Al路lie Howe / noun</h2>
+							<p>inimitable, original, creative.<br />
+							Software Engineer. Hokie. Sailor. Runner.</p>
+						</header>
+						<span class="image"><img src="https://www.alliehowe.tech/allie_MIT.jpg" alt="" /></span>
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- One -->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="https://www.alliehowe.tech/p001.JPG" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2>Projects</h2>
+										<p></p>
+									</header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<p></p>
+								</div>
+								<div class="4u$ 12u$(medium)">
+									<p></p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Two -->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="https://www.alliehowe.tech/inst.png" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2><a href="https://github.com/instafind"> InstaFind</a></h2>
+							<p>InstaFind uses Instagram API, Google Maps API, and Vue.js to parse all picture locations from a user given Instagram account and returns the locations closest to your current location.</p>
+						</header>
+						<p>Think food accounts + major city + hangry you.</p>
+						<ul class="actions">
+							<!-- <li><a href="#" class="button">Learn More</a></li> -->
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three -->
+				<section id="three" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="https://www.alliehowe.tech/eqt.png" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>EQT</h2>
+							<p>EQT uses 360 video and audio to create an empathetic virtual reality experience. This immersive experience allows individuals to better understand the experiences of others. </p>
+						</header>
+						<p>Think racism, sexual assault, cyberbullying, etc.</p>
+						<ul class="actions">
+							<!-- <li><a href="#" class="button">Learn More</a></li> -->
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2>More About Allie</h2>
+							<p></p>
+						</header>
+						<div class="box alt">
+							<div class="row uniform">
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-heartbeat"></span>
+									<h3>Active Lifestlye</h3>
+									<p>Running, hiking, spin class, ultimate frisbee, yoga- I love nearly every sport. Fun fact, I beat Mark Zuckerburg by 2 minutes in the 2016 SFHalf Marathon.</p>
+								</section>
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-anchor"></span>
+									<h3>Sailing</h3>
+									<p>I enjoy sailing competitively and recreationally in lasers, FJ's, melges, and 420's. Favorite sailing locations include Lake Washington, Seattle and Lake Leelanua, Michigan.</p>
+								</section>
+								<section class="4u$ 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-plane"></span>
+									<h3>Travel</h3>
+									<p>Born in Cincinnati, Ohio. Attends college in Blacksburg, Virginia. Traveled outside the US to Germany, Italy, Switzerland, and France, and hopefully will travel to many more countries.</p>
+								</section>
+								
+							</div>
+
+						</div>
+						<footer class="major">
+							<ul class="actions">
+								<!-- <li><a href="#" class="button">Magna sed feugiat</a></li> -->
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			<!-- Five -->
+				<section id="five" class="new">
+					<div >
+						<header>
+							<h2><iframe src="https://embed.spotify.com/?uri=spotify:track:5wsHtmFHWntJzcN6n8ivjd" width=100% height="80" frameborder="0" allowtransparency="true"></iframe></h2>
+
+
+							<p></p>
+						</header>
+
+						
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="https://medium.com/@alliehowe" class="icon alt fa-medium"><span class="label">Medium</span></a></li>
+						<li><a href="https://www.facebook.com/allie.howe.71" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.linkedin.com/in/allisonhowe" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.instagram.com/aehowe29/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/ahowe29" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="mailto:ahowe@vt.edu" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Allie Howe. All rights reserved.</li></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="https://www.alliehowe.tech/jquery.min.js"></script>
+			<script src="https://www.alliehowe.tech/jquery.scrolly.min.js"></script>
+			<script src="https://www.alliehowe.tech/jquery.dropotron.min.js"></script>
+			<script src="https://www.alliehowe.tech/jquery.scrollex.min.js"></script>
+			<script src="https://www.alliehowe.tech/skel.min.js"></script>
+			<script src="https://www.alliehowe.tech/util.js"></script>
+			<!--[if lte IE 8]><script src="https://www.alliehowe.tech/respond.min.js"></script><![endif]-->
+			<script src="https://www.alliehowe.tech/main.js"></script>
+
+	</body>
+</html>
